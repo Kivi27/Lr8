@@ -16,6 +16,7 @@ body {
     color: #ffff;
     font-size: 380%;
     padding-top: 4rem;
+    max-width: 50%;
 }
 
 .custom-p {
@@ -23,6 +24,7 @@ body {
     font-family: 'Catamaran', sans-serif;
     font-size: 120%;
     padding-bottom: 1rem;
+    max-width: 50%;
 }
 
 .str-bs {
