@@ -16,7 +16,7 @@ body {
     color: #ffff;
     font-size: 380%;
     padding-top: 4rem;
-    max-width: 50%;
+    max-width: 500px;
 }
 
 .custom-p {
@@ -24,7 +24,7 @@ body {
     font-family: 'Catamaran', sans-serif;
     font-size: 120%;
     padding-bottom: 1rem;
-    max-width: 50%;
+    max-width: 500px;
 }
 
 .str-bs {
@@ -34,11 +34,6 @@ body {
 }
 .str-bs h2 {
     font-size: 280%;
-}
-.home-el {
-    background-color: rgb(22, 25, 43);
-    padding-top: 9rem;
-    padding-bottom: 9rem;
 }
 
 .btn-primary {
@@ -79,10 +74,6 @@ body {
     background:#30324d !important
 }
 
-
-
-
-
 .card2:hover {
     background:#30324d;
     border:1px solid rgb(45, 49, 68);
@@ -102,19 +93,26 @@ body {
     background:#30324d !important
 }
 
+.about-us-photo {
+    max-width: 350px;
+    width: 100%;
+}
 
 .card:hover .btn-outline-dark{
     color:white;
     background:#212529;
 }
+
 .contact-pg {
     font-family: 'Bungee Spice', cursive;
     padding-top: 3rem;
     padding-bottom: 1rem;
 }
+
 .contact-pg h2 {
     font-size: 280%;
 }
+
 .lt-footer {
     font-family: 'Bungee Spice', cursive;
     padding-top: 2rem;
